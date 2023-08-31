@@ -75,3 +75,16 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 - Unidade 4 - Programação: processo, linguagem e codificação.
 
 [AV1 - Algoritmo para Cálculo do Imposto de Renda](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/logica-de-programacao-algoritmica/av1-atividade-contextualizada)
+
+<br>
+
+## 2° Período
+
+### Empreendedorismo
+
+- Unidade 1 - Definições de empreendedorismo;
+- Unidade 2 - Entenda a globalização e o empreendedorismo no Brasil;
+- Unidade 3 - Planejamento estratégico e os tipos de empresa;
+- Unidade 4 - Plano de negócios e apresentação o empreendedorismo ao mercado.
+
+[AV1 - Plano de Negócio, uma ferramenta que faz a diferença]()
