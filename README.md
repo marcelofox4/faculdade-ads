@@ -64,3 +64,14 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 - Unidade 4 - Modelo OSI: camada de aplicação e cabeamento estruturado.
 
 [AV1 - Proposta de Serviço de Implantação de Rede de Computadores](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/redes-de-computadores/av1-atividade-contextualizada)
+
+<br>
+
+### Lógica de Programação Algorítmica
+
+- Unidade 1 - Aspectos introdutórios dos algoritmos;
+- Unidade 2 - Aspectos fundamentais do Visualg;
+- Unidade 3 - Aspectos referentes às matrizes e modularização;
+- Unidade 4 - Programação: processo, linguagem e codificação.
+
+[AV1 - Algoritmo para Cálculo do Imposto de Renda]()
