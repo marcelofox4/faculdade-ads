@@ -55,3 +55,12 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 [AV1 - O que é e como funciona a CPU?](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/logica-matematica-e-organizacao-e-arquitetura-de-computadores/av1-atividade-contextualizada)
 
 <br>
+
+### Redes de Computadores
+
+- Unidade 1 - Fundamentos de redes de computadores e camada física;
+- Unidade 2 -  Modelo OSI: camada de enlace;
+- Unidade 3 - Modelo OSI: camadas de redes e transporte;
+- Unidade 4 - Modelo OSI: camada de aplicação e cabeamento estruturado.
+
+[AV1 - Proposta de Serviço de Implantação de Rede de Computadores]()
