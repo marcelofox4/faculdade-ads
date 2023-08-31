@@ -24,6 +24,6 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 - Unidade 3 - Conceituação de Sistema, sistema de informação e tecnologia de informação;
 - Unidade 4 - Os Sistemas de Informação.
 
-[AV1 - Criação de Startup (Tec. Easy]()
+[AV1 - Criação de Startup (Tec. Easy)](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/transformacao-tecnologica-sistemas-computacionais-e-o-futuro-da-tecnologia/av1-atividade-contextualizada)
 
 <br>
