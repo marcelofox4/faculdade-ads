@@ -12,4 +12,4 @@
 | ------------ | ------------ | :---- | ----- |
 | 5.00         | 5.00         | --    | 10.00 |
 
-[AV1 - O que é e como funciona a CPU?]()
+[AV1 - O que é e como funciona a CPU?](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/logica-matematica-e-organizacao-e-arquitetura-de-computadores/av1-atividade-contextualizada)

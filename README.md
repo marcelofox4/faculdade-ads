@@ -52,6 +52,6 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
   - Unidade 3 - Linguagens de máquina e de montagem, conjuntos de instruções e MIPS;
   - Unidade 4 - Organização de memória interna e externa, periféricos, multiprocessadores e multicomputadores.
 
-[AV1 - O que é e como funciona a CPU?]()
+[AV1 - O que é e como funciona a CPU?](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/logica-matematica-e-organizacao-e-arquitetura-de-computadores/av1-atividade-contextualizada)
 
 <br>
