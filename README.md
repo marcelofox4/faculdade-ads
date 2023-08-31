@@ -63,4 +63,4 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 - Unidade 3 - Modelo OSI: camadas de redes e transporte;
 - Unidade 4 - Modelo OSI: camada de aplicação e cabeamento estruturado.
 
-[AV1 - Proposta de Serviço de Implantação de Rede de Computadores]()
+[AV1 - Proposta de Serviço de Implantação de Rede de Computadores](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/redes-de-computadores/av1-atividade-contextualizada)
