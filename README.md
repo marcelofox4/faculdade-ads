@@ -27,3 +27,15 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 [AV1 - Criação de Startup (Tec. Easy)](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/transformacao-tecnologica-sistemas-computacionais-e-o-futuro-da-tecnologia/av1-atividade-contextualizada)
 
 <br>
+
+### Desenvolvimento Sustentável e Direitos Individuais
+
+- Unidade 1 - Aspectos Introdutórios da temática socioambiental;
+- Unidade 2 - Aspectos legais e ações globais para o desenvolvimento sustentável;
+- Unidade 3 - Responsabilidade Socioambiental como estratégia de gestão;
+- Unidade 4 - Cooperativismo, atuação conjunta e promoção do desenvolvimento socioambiental.
+
+[AV1 - Os problemas socioambientais e a luta para minimizá-los]()
+
+<br>
+
