@@ -35,7 +35,7 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 - Unidade 3 - Responsabilidade Socioambiental como estratégia de gestão;
 - Unidade 4 - Cooperativismo, atuação conjunta e promoção do desenvolvimento socioambiental.
 
-[AV1 - Os problemas socioambientais e a luta para minimizá-los]()
+[AV1 - Os problemas socioambientais e a luta para minimizá-los](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/desenvolvimento-sustentavel-e-direitos-individuais/av1-atividade-contextualizada)
 
 <br>
 

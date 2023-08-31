@@ -12,4 +12,4 @@
 | ------------ | ------------ | :---- | ----- |
 | 4.50         | 5.00         | --    | 9.50  |
 
-[AV1 - Os problemas socioambientais e a luta para minimizá-los]()
+[AV1 - Os problemas socioambientais e a luta para minimizá-los](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/desenvolvimento-sustentavel-e-direitos-individuais/av1-atividade-contextualizada)
