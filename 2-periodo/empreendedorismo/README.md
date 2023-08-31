@@ -12,4 +12,4 @@
 | ------------ | ------------ | :---- | ----- |
 | 4.40         | 4.50         | --    | 8.90  |
 
-[AV1 - Plano de Negócio, uma ferramenta que faz a diferença]()
+[AV1 - Plano de Negócio, uma ferramenta que faz a diferença](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/empreendedorismo/av1-atividade-contextualizada)

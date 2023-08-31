@@ -87,4 +87,4 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 - Unidade 3 - Planejamento estratégico e os tipos de empresa;
 - Unidade 4 - Plano de negócios e apresentação o empreendedorismo ao mercado.
 
-[AV1 - Plano de Negócio, uma ferramenta que faz a diferença]()
+[AV1 - Plano de Negócio, uma ferramenta que faz a diferença](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/empreendedorismo/av1-atividade-contextualizada)
