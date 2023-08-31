@@ -12,4 +12,4 @@
 | ------------ | ------------ | :---- | ----- |
 | 5.00         | 5.00         | --    | 10.00 |
 
-[AV1 - Algoritmo para Cálculo do Imposto de Renda]()
+[AV1 - Algoritmo para Cálculo do Imposto de Renda](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/logica-de-programacao-algoritmica/av1-atividade-contextualizada)
