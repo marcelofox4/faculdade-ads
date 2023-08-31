@@ -39,3 +39,19 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 
 <br>
 
+### Lógica Matemática e Organização e Arquitetura de Computadores
+
+- Lógica Matemática
+  - Unidade 1 - Conceitos de Lógica;
+  - Unidade 2 - Conceitos do Cálculo Proposicional;
+  - Unidade 3 - Sistemas formais e Cálculos Proposicionais;
+  - Unidade 4 - Proposição e Silogismo.
+- Organização e Arquitetura de Computadores
+  - Unidade 1 - Historia, conceitos e principais modelos utilizados na atualidade;
+  - Unidade 2 - Números binários: conversão, operações, overflow, portas e álgebra booleana;
+  - Unidade 3 - Linguagens de máquina e de montagem, conjuntos de instruções e MIPS;
+  - Unidade 4 - Organização de memória interna e externa, periféricos, multiprocessadores e multicomputadores.
+
+[AV1 - O que é e como funciona a CPU?]()
+
+<br>
