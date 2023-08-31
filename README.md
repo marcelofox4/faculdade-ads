@@ -13,3 +13,6 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 - Unidade 3 - O aprendizado na EaD;
 - Unidade 4 - As TICs na EaD;
 
+[AV1 - Concepção, conceitos e características do EAD (Mapa Mental)](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/ensino-digital/av1-atividade-contextualizada)
+
+<br>
