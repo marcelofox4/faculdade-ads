@@ -93,10 +93,13 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 
 ### Gerenciamento de Projetos
 
-- Unidade 1 - Conceitos básicos na gestão de projetos;
-- Unidade 2 - Os processos do PMBOK;
-- Unidade 3 - Processos do gerenciamento de projetos;
-- Unidade 4 - Métodos ágeis para gestão de projetos.
+Unidade 1 - Conceitos básicos na gestão de projetos;
+
+Unidade 2 - Os processos do PMBOK;
+
+Unidade 3 - Processos do gerenciamento de projetos;
+
+Unidade 4 - Métodos ágeis para gestão de projetos.
 
 [AV1 - Gerenciamento de Projetos - Uma breve explicação](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/gerenciamento-de-projetos/av1-atividade-contextualizada)
 
@@ -110,3 +113,20 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 - Unidade 4 - Recursos para implementação de projetos em HCD.
 
 [AV1 - PodCast](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/human-centred-design/av1-atividade-contextualizada)
+
+<br>
+
+### Programação Orientada a Objetos e Estrutura de Dados
+
+- Programação Orientada a Objetos:
+  - Unidade 1 - Introdução á programação orientada a objetos;
+  - Unidade 2 - Conceitos-chave em orientação a objetos;
+  - Unidade 3 - Fundamentos das classes em Java: herança, hierarquia, relacionamentos;
+  - Unidade 4 - Polimorfismo, ligação dinâmica e tratamento de exceções.
+- Estrutura de Dados:
+  - Unidade 1 - Tipos de dados e Estrutura de dados;
+  - Unidade 2 - Técnicas de ordenação, estruturas de lista e pilha;
+  - Unidade 3 - Filas e Árvores: implementações e generalizações;
+  - Unidade 4 - Grafos, pesquisa de dados e hash.
+
+[AV1 - Projeto Biosfera 2]()
