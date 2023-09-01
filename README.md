@@ -88,3 +88,14 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 - Unidade 4 - Plano de negócios e apresentação o empreendedorismo ao mercado.
 
 [AV1 - Plano de Negócio, uma ferramenta que faz a diferença](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/empreendedorismo/av1-atividade-contextualizada)
+
+<br>
+
+### Gerenciamento de Projetos
+
+- Unidade 1 - Conceitos básicos na gestão de projetos;
+- Unidade 2 - Os processos do PMBOK;
+- Unidade 3 - Processos do gerenciamento de projetos;
+- Unidade 4 - Métodos ágeis para gestão de projetos.
+
+[AV1 - Gerenciamento de Projetos - Uma breve explicação]()
