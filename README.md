@@ -98,4 +98,4 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 - Unidade 3 - Processos do gerenciamento de projetos;
 - Unidade 4 - Métodos ágeis para gestão de projetos.
 
-[AV1 - Gerenciamento de Projetos - Uma breve explicação]()
+[AV1 - Gerenciamento de Projetos - Uma breve explicação](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/gerenciamento-de-projetos/av1-atividade-contextualizada)
