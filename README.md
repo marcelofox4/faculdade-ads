@@ -99,3 +99,14 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 - Unidade 4 - Métodos ágeis para gestão de projetos.
 
 [AV1 - Gerenciamento de Projetos - Uma breve explicação](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/gerenciamento-de-projetos/av1-atividade-contextualizada)
+
+<br>
+
+### Human Centred Design
+
+- Unidade 1 - Human Centred Design, uma visão geral;
+- Unidade 2 - Entregas e ferramentas;
+- Unidade 3 - Síntese para a criação de soluções;
+- Unidade 4 - Recursos para implementação de projetos em HCD.
+
+[AV1 - PodCast]()
