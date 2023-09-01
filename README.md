@@ -146,6 +146,6 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 
 ### Atividades Práticas Interdisciplinares de Extensão I
 
-[AV1 - Projeto (PROJETO DE AUXÍLIO AO ATLETA IPOJUCANO)]()
+[AV1 - Projeto (PROJETO DE AUXÍLIO AO ATLETA IPOJUCANO)](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/atividades-praticas-interdisciplinares-de-extens%C3%A3o-I/atividades-contextualizadas/av1)
 
-[AV2 - Relatório (PROJETO DE AUXÍLIO AO ATLETA IPOJUCANO)]()
+[AV2 - Relatório (PROJETO DE AUXÍLIO AO ATLETA IPOJUCANO)](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/atividades-praticas-interdisciplinares-de-extens%C3%A3o-I/atividades-contextualizadas/av2)

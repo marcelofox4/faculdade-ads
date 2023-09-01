@@ -12,6 +12,6 @@
 | ------------ | ------------ | :---- | ----- |
 | 5.00         | 5.00         | --    | 10.00 |
 
-[AV1 - Projeto (PROJETO DE AUXÍLIO AO ATLETA IPOJUCANO)]()
+[AV1 - Projeto (PROJETO DE AUXÍLIO AO ATLETA IPOJUCANO)](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/atividades-praticas-interdisciplinares-de-extens%C3%A3o-I/atividades-contextualizadas/av1)
 
-[AV2 - Relatório (PROJETO DE AUXÍLIO AO ATLETA IPOJUCANO)]()
+[AV2 - Relatório (PROJETO DE AUXÍLIO AO ATLETA IPOJUCANO)](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/atividades-praticas-interdisciplinares-de-extens%C3%A3o-I/atividades-contextualizadas/av2)
