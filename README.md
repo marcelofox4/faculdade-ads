@@ -130,3 +130,14 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
   - Unidade 4 - Grafos, pesquisa de dados e hash.
 
 [AV1 - Projeto Biosfera 2](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/programacao-orientada-a-objetos-e-estrutura-de-dados/av1-atividade-contextualizada)
+
+<br>
+
+### Desenvolvimento de Aplicações para Internet
+
+- Unidade 1 - Introdução ao desenvolvimento de aplicações para internet;
+- Unidade 2 - Ambiente de desenvolvimento e Servlet API;
+- Unidade 3 - Deployment Descriptor, escopo de aplicação e scriplets;
+- Unidade 4 - Escolha de opções na tecnologia Java para Web e arquitetura da aplicação.
+
+[AV1 - Ambiente de desenvolvimento para aplicações web em Java]()
