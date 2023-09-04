@@ -152,6 +152,8 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 
 <br>
 
+## 3° Período
+
 ### Análise e Modelagem de Sistemas e Gerenciamento de Configurações
 
 - Análise e Modelagem de Sistemas:
@@ -165,4 +167,4 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
   - Unidade 3 - Gerenciamento de Ciclo de vida de mudanças de software;
   - Unidade 4 - Gerência de configuração: auditoria, contingência e ferramentas.
 
-[AV1 Análise e Modelagem de Sistemas e Gerenciamento de Configurações]()
+[AV1 Análise e Modelagem de Sistemas e Gerenciamento de Configurações](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/analise-e-modelagem-de-sistemas-e-gerenciamento-de-configuracoes/av1-atividade-contextualizada)
