@@ -149,3 +149,20 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 [AV1 - Projeto (PROJETO DE AUXÍLIO AO ATLETA IPOJUCANO)](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/atividades-praticas-interdisciplinares-de-extens%C3%A3o-I/atividades-contextualizadas/av1)
 
 [AV2 - Relatório (PROJETO DE AUXÍLIO AO ATLETA IPOJUCANO)](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/atividades-praticas-interdisciplinares-de-extens%C3%A3o-I/atividades-contextualizadas/av2)
+
+<br>
+
+### Análise e Modelagem de Sistemas e Gerenciamento de Configurações
+
+- Análise e Modelagem de Sistemas:
+  - Unidade 1 - Introdução à análise e desenvolvimento de sistemas;
+  - Unidade 2 - Introdução a UML e Ferramentas CASE;
+  - Unidade 3 - Diagramas UML e suas aplicações;
+  - Unidade 4 - O uso dos diagramas UML e a engenharia reversa.
+- Gerência de Configurações:
+  - Unidade 1 - Introdução à gerência de configurações;
+  - Unidade 2 - Itens de configuração;
+  - Unidade 3 - Gerenciamento de Ciclo de vida de mudanças de software;
+  - Unidade 4 - Gerência de configuração: auditoria, contingência e ferramentas.
+
+[AV1 Análise e Modelagem de Sistemas e Gerenciamento de Configurações]()
