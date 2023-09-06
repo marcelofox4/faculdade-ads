@@ -167,4 +167,21 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
   - Unidade 3 - Gerenciamento de Ciclo de vida de mudanças de software;
   - Unidade 4 - Gerência de configuração: auditoria, contingência e ferramentas.
 
-[AV1 Análise e Modelagem de Sistemas e Gerenciamento de Configurações](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/analise-e-modelagem-de-sistemas-e-gerenciamento-de-configuracoes/av1-atividade-contextualizada)
+[AV1 - Análise e Modelagem de Sistemas e Gerenciamento de Configurações](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/analise-e-modelagem-de-sistemas-e-gerenciamento-de-configuracoes/av1-atividade-contextualizada)
+
+<br>
+
+### Arquitetura de Software e Computação em Nuvem
+
+- Arquitetura de Software:
+  - Unidade 1 - Introdução à arquitetura de software;
+  - Unidade 2 - Modelagem e análise arquitetural;
+  - Unidade 3 - Projeto arquitetural e implementação arquitetural;
+  - Unidade 4 - Frameworks e suporte a requisitos não funcionais.
+- Computação em Nuvem:
+  - Unidade 1 - Aspectos introdutórios da computação em nuvem;
+  - Unidade 2 - Aspectos fundamentais dos serviços em computação em nuvem;
+  - Unidade 3 - Projeto e implementação dos serviços em computação em nuvem;
+  - Unidade 4 - Avaliação e segurança na nuvem.
+
+[AV1 - Como a Computação em Nuvem vem Transformando a Maneira como Interagimos com a Tecnologia]()
