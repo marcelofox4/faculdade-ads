@@ -171,6 +171,17 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 
 <br>
 
+### Inteligência Artificial Aplicada aos Negócios
+
+- Unidade 1 - Histórico, conceitos e fundamentos da Inteligência Artificial;
+- Unidade 2 - Aprendizado das máquinas e resolução de problemas;
+- Unidade 3 - Mecanismos da Inteligência Artificial;
+- Unidade 4 - Aplicações e tendências de Inteligência Artificial. 
+
+[AV1 - Máquinas pensantes dentro dos negócios: Entendendo Machine e Deep Learning]()
+
+<br>
+
 ### Arquitetura de Software e Computação em Nuvem
 
 - Arquitetura de Software:
