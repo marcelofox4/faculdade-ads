@@ -184,4 +184,4 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
   - Unidade 3 - Projeto e implementação dos serviços em computação em nuvem;
   - Unidade 4 - Avaliação e segurança na nuvem.
 
-[AV1 - Como a Computação em Nuvem vem Transformando a Maneira como Interagimos com a Tecnologia]()
+[AV1 - Como a Computação em Nuvem vem Transformando a Maneira como Interagimos com a Tecnologia](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/arquitetura-de-software-e-computacao-em-nuvem/av1-atividade-contextualizada)
