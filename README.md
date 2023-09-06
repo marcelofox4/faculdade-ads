@@ -178,7 +178,7 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 - Unidade 3 - Mecanismos da Inteligência Artificial;
 - Unidade 4 - Aplicações e tendências de Inteligência Artificial. 
 
-[AV1 - Máquinas pensantes dentro dos negócios: Entendendo Machine e Deep Learning]()
+[AV1 - Máquinas pensantes dentro dos negócios: Entendendo Machine e Deep Learning](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/inteligencia-artificial-aplicada-aos-negocios/av1-atividade-contextualizada)
 
 <br>
 
