@@ -196,3 +196,14 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
   - Unidade 4 - Avaliação e segurança na nuvem.
 
 [AV1 - Como a Computação em Nuvem vem Transformando a Maneira como Interagimos com a Tecnologia](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/arquitetura-de-software-e-computacao-em-nuvem/av1-atividade-contextualizada)
+
+<br>
+
+### Desenvolvimento para Dispositivos Móveis
+
+- Unidade 1 - Aspectos introdutórios dos dispositivos móveis;
+- Unidade 2 - Plataforma móveis e desenvolvimento Android;
+- Unidade 3 - Componentes Android, suas interfaces e o gerenciamento de layout;
+- Unidade 4 - Persistência de dados e aplicativos na Google Play.
+
+[AV1 - Análise do sistema operacional Android: Pontos fortes e fracos)]()
