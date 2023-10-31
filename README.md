@@ -206,4 +206,4 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 - Unidade 3 - Componentes Android, suas interfaces e o gerenciamento de layout;
 - Unidade 4 - Persistência de dados e aplicativos na Google Play.
 
-[AV1 - Análise do sistema operacional Android: Pontos fortes e fracos)]()
+[AV1 - Análise do sistema operacional Android: Pontos fortes e fracos)](https://github.com/marcelofox4/faculdade-ads/blob/main/3-periodo/desenvolvimento-para-dispositivos-moveis/av1-atividade-contextualizada/AN%C3%81LISE%20DO%20SISTEMA%20OPERACIONAL%20ANDROID%3A%20PONTOS%20FORTES%20E%20FRACOS.pdf)
