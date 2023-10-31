@@ -226,4 +226,4 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
   - Unidade 3 - Padrões e teste de qualidade de software;
   - Unidade 4 - Processos de gerência da qualidade de software.
 
-  [AV1 - Gerenciamento das atividade como fator determinante em um projeto de software]()
+  [AV1 - Gerenciamento das atividade como fator determinante em um projeto de software](https://github.com/marcelofox4/faculdade-ads/blob/main/3-periodo/engenharia-qualidade-e-testes-de-software/av1-atividade-contextualizada/GERENCIAMENTO%20DAS%20ATIVIDADES%20COMO%20FATOR%20DETERMINANTE%20EM%20UM%20PROJETO%20DE%20SOFTWARE.pdf)
