@@ -207,3 +207,23 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 - Unidade 4 - Persistência de dados e aplicativos na Google Play.
 
 [AV1 - Análise do sistema operacional Android: Pontos fortes e fracos)](https://github.com/marcelofox4/faculdade-ads/blob/main/3-periodo/desenvolvimento-para-dispositivos-moveis/av1-atividade-contextualizada/AN%C3%81LISE%20DO%20SISTEMA%20OPERACIONAL%20ANDROID%3A%20PONTOS%20FORTES%20E%20FRACOS.pdf)
+
+<br>
+
+### Engenharia, Qualidade e Teste de Software
+
+- Engenharia de Software
+
+  - Unidade 1 - Aspectos introdutórios da engenharia de software;
+  - Unidade 2 - Modelos de software e métodos ágeis;
+  - Unidade 3 - Garantia de qualidade;
+  - Unidade 4 - Modelagem de sistemas.
+
+- Qualidade de Software
+
+  - Unidade 1 - Introdução a qualidade de software;
+  - Unidade 2 - Normas e métricas da qualidade de software.
+  - Unidade 3 - Padrões e teste de qualidade de software;
+  - Unidade 4 - Processos de gerência da qualidade de software.
+
+  [AV1 - Gerenciamento das atividade como fator determinante em um projeto de software]()
