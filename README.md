@@ -246,3 +246,14 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 - Unidade 4 - Implantação de bancos de dados relacionais.
 
 [AV1 - Implementação de banco de dados em uma agência de veículos](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/banco-de-dados/av1-atividade-contextualizada)
+
+<br>
+
+### Governança e Estratégias de TI
+
+- Unidade 1 - Conceitos e objetivos da governança de TI;
+- Unidade 2 - Governança de Tecnologia da Informação;
+- Unidade 3 - Programa de governança de TI;
+- Unidade 4. Modelos existentes de governança de TI;
+
+[AV1 - RELAÇÃO DE PROCESSOS ENTRE O COBIT E ITIL]()
