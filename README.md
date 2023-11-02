@@ -206,7 +206,7 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 - Unidade 3 - Componentes Android, suas interfaces e o gerenciamento de layout;
 - Unidade 4 - Persistência de dados e aplicativos na Google Play.
 
-[AV1 - Análise do sistema operacional Android: Pontos fortes e fracos)](https://github.com/marcelofox4/faculdade-ads/blob/main/3-periodo/desenvolvimento-para-dispositivos-moveis/av1-atividade-contextualizada/AN%C3%81LISE%20DO%20SISTEMA%20OPERACIONAL%20ANDROID%3A%20PONTOS%20FORTES%20E%20FRACOS.pdf)
+[AV1 - Análise do sistema operacional Android: Pontos fortes e fracos)](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/desenvolvimento-para-dispositivos-moveis/av1-atividade-contextualizada)
 
 <br>
 
@@ -226,4 +226,4 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
   - Unidade 3 - Padrões e teste de qualidade de software;
   - Unidade 4 - Processos de gerência da qualidade de software.
 
-  [AV1 - Gerenciamento das atividade como fator determinante em um projeto de software](https://github.com/marcelofox4/faculdade-ads/blob/main/3-periodo/engenharia-qualidade-e-testes-de-software/av1-atividade-contextualizada/GERENCIAMENTO%20DAS%20ATIVIDADES%20COMO%20FATOR%20DETERMINANTE%20EM%20UM%20PROJETO%20DE%20SOFTWARE.pdf)
+  [AV1 - Gerenciamento das atividade como fator determinante em um projeto de software](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/engenharia-qualidade-e-testes-de-software/av1-atividade-contextualizada)
