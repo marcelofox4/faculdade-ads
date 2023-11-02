@@ -235,3 +235,14 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 ### Atividades Práticas Interdisciplinares de Extensão II
 
 [AV1 - Website Esporte Ipojucano](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/atividades-praticas-interdisciplinares-de-extencao-II/av1-atividade-contextualizada)
+
+<br>
+
+### Banco de Dados
+
+- Unidade 1 - Conceitos iniciais;
+- Unidade 2 - Modelo Relacional;
+- Unidade 3 - Modelo físico do banco de dados – introdução à Linguagem SQL;
+- Unidade 4 - Implantação de bancos de dados relacionais.
+
+[AV1 - Implementação de banco de dados em uma agência de veículos]()
