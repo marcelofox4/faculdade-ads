@@ -268,3 +268,14 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 - Unidade 4 - Metodologias Ágeis.
 
 [AV1 - Esporte Ipojucano](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/laboratorio-de-projetos-inovadores/av1-atividade-contextualizada)
+
+<br>
+
+### Usabilidade e Interface Homem Máquina
+
+- Unidade 1 - Interface homem-computador: conceitos e discussões iniciais;
+- Unidade 2 - Princípios do design;
+- Unidade 3 - Usabilidade;
+- Unidade 4 - Testes e resultados.
+
+[AV1 - DESIGN DE INTERFACE PARA ELEVADORES HOSPITALARES: ATENDENDO ÀS NECESSIDADES DOS USUÁRIOS]()
