@@ -12,4 +12,10 @@
 | ------------ | ------------ | :---- | ----- |
 | 4.25         | 5.00         | --    | 9.25  |
 
-[AV1 - Ambiente de desenvolvimento para aplicações web em Java](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/desenvolvimento-de-aplicacoes-para-internet/av1-atividade-contextualizada)
+<br>
+
+**Nota média da turma**:
+
+| 1° Avaliação | 2° Avaliação | Final | Total |
+| ------------ | ------------ | :---- | ----- |
+| 4.21         | 4.39         | 8.57  | 7.78  |

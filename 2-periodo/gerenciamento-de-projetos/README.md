@@ -12,4 +12,10 @@
 | ------------ | ------------ | :---- | ----- |
 | 5.00         | 5.00         | --    | 10.00 |
 
-[AV1 - Gerenciamento de Projetos - Uma breve explicação](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/gerenciamento-de-projetos/av1-atividade-contextualizada)
+<br>
+
+**Nota média da turma**:
+
+| 1° Avaliação | 2° Avaliação | Final | Total |
+| ------------ | ------------ | :---- | ----- |
+| 2.19         | 4.50         | 8.53  | 5.71  |

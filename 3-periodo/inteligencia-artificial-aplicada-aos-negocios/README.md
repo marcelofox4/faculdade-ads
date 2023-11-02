@@ -12,4 +12,10 @@
 | ------------ | ------------ | :---- | ----- |
 | 9.90         | 10.00        | --    | 9.95  |
 
-[AV1 - Máquinas pensantes dentro dos negócios: Entendendo Machine e Deep Learning](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/inteligencia-artificial-aplicada-aos-negocios/av1-atividade-contextualizada)
+<br>
+
+**Nota média da turma**:
+
+| 1° Avaliação | 2° Avaliação | Final | Total |
+| ------------ | ------------ | :---- | ----- |
+| 5.31         | 8.69         | 8.49  | 8.38  |

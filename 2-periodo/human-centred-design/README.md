@@ -12,4 +12,10 @@
 | ------------ | ------------ | :---- | ----- |
 | 4.25         | 5.00         | --    | 9.25  |
 
-[AV1 - PodCast](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/human-centred-design/av1-atividade-contextualizada)
+<br>
+
+**Nota média da turma**:
+
+| 1° Avaliação | 2° Avaliação | Final | Total |
+| ------------ | ------------ | :---- | ----- |
+| 4.33         | 4.21         | 8.46  | 7.52  |

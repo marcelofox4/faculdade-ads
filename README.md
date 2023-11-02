@@ -15,6 +15,8 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 
 [AV1 - Concepção, conceitos e características do EAD (Mapa Mental)](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/ensino-digital/av1-atividade-contextualizada)
 
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/ensino-digital)
+
 <br>
 
 ### **Transformação Tecnológica, Sistemas Computacionais e o Futuro da Tecnologia**
@@ -26,6 +28,8 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 
 [AV1 - Criação de Startup (Tec. Easy)](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/transformacao-tecnologica-sistemas-computacionais-e-o-futuro-da-tecnologia/av1-atividade-contextualizada)
 
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/transformacao-tecnologica-sistemas-computacionais-e-o-futuro-da-tecnologia)
+
 <br>
 
 ### Desenvolvimento Sustentável e Direitos Individuais
@@ -35,7 +39,11 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 - Unidade 3 - Responsabilidade Socioambiental como estratégia de gestão;
 - Unidade 4 - Cooperativismo, atuação conjunta e promoção do desenvolvimento socioambiental.
 
+
+
 [AV1 - Os problemas socioambientais e a luta para minimizá-los](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/desenvolvimento-sustentavel-e-direitos-individuais/av1-atividade-contextualizada)
+
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/desenvolvimento-sustentavel-e-direitos-individuais)
 
 <br>
 
@@ -54,6 +62,8 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 
 [AV1 - O que é e como funciona a CPU?](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/logica-matematica-e-organizacao-e-arquitetura-de-computadores/av1-atividade-contextualizada)
 
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/logica-matematica-e-organizacao-e-arquitetura-de-computadores)
+
 <br>
 
 ### Redes de Computadores
@@ -65,6 +75,8 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 
 [AV1 - Proposta de Serviço de Implantação de Rede de Computadores](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/redes-de-computadores/av1-atividade-contextualizada)
 
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/redes-de-computadores)
+
 <br>
 
 ### Lógica de Programação Algorítmica
@@ -75,6 +87,8 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 - Unidade 4 - Programação: processo, linguagem e codificação.
 
 [AV1 - Algoritmo para Cálculo do Imposto de Renda](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/logica-de-programacao-algoritmica/av1-atividade-contextualizada)
+
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/logica-de-programacao-algoritmica)
 
 <br>
 
@@ -88,6 +102,8 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 - Unidade 4 - Plano de negócios e apresentação o empreendedorismo ao mercado.
 
 [AV1 - Plano de Negócio, uma ferramenta que faz a diferença](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/empreendedorismo/av1-atividade-contextualizada)
+
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/empreendedorismo)
 
 <br>
 
@@ -103,6 +119,8 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 
 [AV1 - Gerenciamento de Projetos - Uma breve explicação](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/gerenciamento-de-projetos/av1-atividade-contextualizada)
 
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/gerenciamento-de-projetos)
+
 <br>
 
 ### Human Centred Design
@@ -113,6 +131,8 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 - Unidade 4 - Recursos para implementação de projetos em HCD.
 
 [AV1 - PodCast](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/human-centred-design/av1-atividade-contextualizada)
+
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/human-centred-design)
 
 <br>
 
@@ -131,6 +151,8 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 
 [AV1 - Projeto Biosfera 2](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/programacao-orientada-a-objetos-e-estrutura-de-dados/av1-atividade-contextualizada)
 
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/programacao-orientada-a-objetos-e-estrutura-de-dados)
+
 <br>
 
 ### Desenvolvimento de Aplicações para Internet
@@ -142,6 +164,8 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 
 [AV1 - Ambiente de desenvolvimento para aplicações web em Java](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/desenvolvimento-de-aplicacoes-para-internet/av1-atividade-contextualizada)
 
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/desenvolvimento-de-aplicacoes-para-internet)
+
 <br>
 
 ### Atividades Práticas Interdisciplinares de Extensão I
@@ -149,6 +173,8 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 [AV1 - Projeto (PROJETO DE AUXÍLIO AO ATLETA IPOJUCANO)](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/atividades-praticas-interdisciplinares-de-extens%C3%A3o-I/atividades-contextualizadas/av1)
 
 [AV2 - Relatório (PROJETO DE AUXÍLIO AO ATLETA IPOJUCANO)](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/atividades-praticas-interdisciplinares-de-extens%C3%A3o-I/atividades-contextualizadas/av2)
+
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/atividades-praticas-interdisciplinares-de-extens%C3%A3o-I)
 
 <br>
 
@@ -169,6 +195,8 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 
 [AV1 - Análise e Modelagem de Sistemas e Gerenciamento de Configurações](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/analise-e-modelagem-de-sistemas-e-gerenciamento-de-configuracoes/av1-atividade-contextualizada)
 
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/analise-e-modelagem-de-sistemas-e-gerenciamento-de-configuracoes)
+
 <br>
 
 ### Inteligência Artificial Aplicada aos Negócios
@@ -179,6 +207,8 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 - Unidade 4 - Aplicações e tendências de Inteligência Artificial. 
 
 [AV1 - Máquinas pensantes dentro dos negócios: Entendendo Machine e Deep Learning](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/inteligencia-artificial-aplicada-aos-negocios/av1-atividade-contextualizada)
+
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/inteligencia-artificial-aplicada-aos-negocios)
 
 <br>
 
@@ -197,6 +227,8 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 
 [AV1 - Como a Computação em Nuvem vem Transformando a Maneira como Interagimos com a Tecnologia](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/arquitetura-de-software-e-computacao-em-nuvem/av1-atividade-contextualizada)
 
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/arquitetura-de-software-e-computacao-em-nuvem)
+
 <br>
 
 ### Desenvolvimento para Dispositivos Móveis
@@ -207,6 +239,8 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 - Unidade 4 - Persistência de dados e aplicativos na Google Play.
 
 [AV1 - Análise do sistema operacional Android: Pontos fortes e fracos)](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/desenvolvimento-para-dispositivos-moveis/av1-atividade-contextualizada)
+
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/desenvolvimento-para-dispositivos-moveis)
 
 <br>
 
@@ -228,6 +262,8 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 
   [AV1 - Gerenciamento das atividade como fator determinante em um projeto de software](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/engenharia-qualidade-e-testes-de-software/av1-atividade-contextualizada)
   
+  [Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/engenharia-qualidade-e-testes-de-software)
+  
   <br>
 
 ## 4° Período
@@ -235,6 +271,8 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 ### Atividades Práticas Interdisciplinares de Extensão II
 
 [AV1 - Website Esporte Ipojucano](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/atividades-praticas-interdisciplinares-de-extencao-II/av1-atividade-contextualizada)
+
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/atividades-praticas-interdisciplinares-de-extencao-II)
 
 <br>
 
@@ -247,6 +285,8 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 
 [AV1 - Implementação de banco de dados em uma agência de veículos](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/banco-de-dados/av1-atividade-contextualizada)
 
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/banco-de-dados)
+
 <br>
 
 ### Governança e Estratégias de TI
@@ -257,6 +297,8 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 - Unidade 4. Modelos existentes de governança de TI;
 
 [AV1 - RELAÇÃO DE PROCESSOS ENTRE O COBIT E ITIL](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/governaca-e-estrategias-de-TI/av1-atividade-contextualizada)
+
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/governaca-e-estrategias-de-TI)
 
 <br>
 
@@ -269,6 +311,8 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 
 [AV1 - Esporte Ipojucano](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/laboratorio-de-projetos-inovadores/av1-atividade-contextualizada)
 
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/laboratorio-de-projetos-inovadores)
+
 <br>
 
 ### Usabilidade e Interface Homem Máquina
@@ -279,3 +323,5 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 - Unidade 4 - Testes e resultados.
 
 [AV1 - DESIGN DE INTERFACE PARA ELEVADORES HOSPITALARES: ATENDENDO ÀS NECESSIDADES DOS USUÁRIOS](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/usabilidade-e-interface-homem-maquina/av1-atividade-contextualizada)
+
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/usabilidade-e-interface-homem-maquina)

@@ -12,4 +12,10 @@
 | ------------ | ------------ | :---- | ----- |
 | 5.00         | 5.00         | --    | 10.00 |
 
-[AV1 - Criação de Startup (Tec. Easy)](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/transformacao-tecnologica-sistemas-computacionais-e-o-futuro-da-tecnologia/av1-atividade-contextualizada)
+<br>
+
+**Nota média da turma**:
+
+| 1° Avaliação | 2° Avaliação | Final | Total |
+| ------------ | ------------ | :---- | ----- |
+| 4.41         | 4.23         | 8.53  | 7.58  |

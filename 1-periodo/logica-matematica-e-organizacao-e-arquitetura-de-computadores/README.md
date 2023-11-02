@@ -12,4 +12,10 @@
 | ------------ | ------------ | :---- | ----- |
 | 5.00         | 5.00         | --    | 10.00 |
 
-[AV1 - O que é e como funciona a CPU?](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/logica-matematica-e-organizacao-e-arquitetura-de-computadores/av1-atividade-contextualizada)
+<br>
+
+**Nota média da turma**:
+
+| 1° Avaliação | 2° Avaliação | Final | Total |
+| ------------ | ------------ | :---- | ----- |
+| 4.75         | 4.21         | 7.93  | 7.66  |

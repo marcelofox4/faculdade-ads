@@ -12,6 +12,10 @@
 | ------------ | ------------ | :---- | ----- |
 | 5.00         | 5.00         | --    | 10.00 |
 
-[AV1 - Projeto (PROJETO DE AUXÍLIO AO ATLETA IPOJUCANO)](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/atividades-praticas-interdisciplinares-de-extens%C3%A3o-I/atividades-contextualizadas/av1)
+<br>
 
-[AV2 - Relatório (PROJETO DE AUXÍLIO AO ATLETA IPOJUCANO)](https://github.com/marcelofox4/faculdade-ads/tree/main/2-periodo/atividades-praticas-interdisciplinares-de-extens%C3%A3o-I/atividades-contextualizadas/av2)
+**Nota média da turma**:
+
+| 1° Avaliação | 2° Avaliação | Final | Total |
+| ------------ | ------------ | :---- | ----- |
+| 1.54         | 1.45         | --    | 3.92  |

@@ -12,4 +12,10 @@
 | ------------ | ------------ | :---- | ----- |
 | 4.50         | 5.00         | --    | 9.50  |
 
-[AV1 - Os problemas socioambientais e a luta para minimizá-los](https://github.com/marcelofox4/faculdade-ads/tree/main/1-periodo/desenvolvimento-sustentavel-e-direitos-individuais/av1-atividade-contextualizada)
+<br>
+
+**Nota média da turma**:
+
+| 1° Avaliação | 2° Avaliação | Final | Total |
+| ------------ | ------------ | :---- | ----- |
+| 4.22         | 4.53         | 8.99  | 7.71  |
