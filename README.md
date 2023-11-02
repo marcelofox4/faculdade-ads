@@ -257,3 +257,14 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 - Unidade 4. Modelos existentes de governança de TI;
 
 [AV1 - RELAÇÃO DE PROCESSOS ENTRE O COBIT E ITIL](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/governaca-e-estrategias-de-TI/av1-atividade-contextualizada)
+
+<br>
+
+### Laboratório de Projetos Inovadores
+
+- Unidade 1 - Criatividade;
+- Unidade 2 - Inovação;
+- Unidade 3 - O que são Projetos;
+- Unidade 4 - Metodologias Ágeis.
+
+[AV1 - Esporte Ipojucano]()
