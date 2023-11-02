@@ -256,4 +256,4 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 - Unidade 3 - Programa de governança de TI;
 - Unidade 4. Modelos existentes de governança de TI;
 
-[AV1 - RELAÇÃO DE PROCESSOS ENTRE O COBIT E ITIL]()
+[AV1 - RELAÇÃO DE PROCESSOS ENTRE O COBIT E ITIL](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/governaca-e-estrategias-de-TI/av1-atividade-contextualizada)
