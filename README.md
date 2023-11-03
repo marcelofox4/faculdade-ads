@@ -325,3 +325,90 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 [AV1 - DESIGN DE INTERFACE PARA ELEVADORES HOSPITALARES: ATENDENDO ÀS NECESSIDADES DOS USUÁRIOS](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/usabilidade-e-interface-homem-maquina/av1-atividade-contextualizada)
 
 [Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/usabilidade-e-interface-homem-maquina)
+
+<br>
+
+## Atividades Complementares
+
+### Trabalhando com Collections Java
+
+**Instituição**: Digital Innovation One
+
+**Carga horária**: 6 horas
+
+**Data de conclusão**: 01/03/2022
+
+<br>
+
+### Programação Orientada a Objetos
+
+**Instituição**: Digital Innovation One
+
+**Carga horária**: 4 horas
+
+**Data de conclusão**: 19/01/2022
+
+<br>
+
+### Aprenda o que são Estrutura de Dados e Algoritmos
+
+**Instituição**: Digital Innovation One
+
+**Carga horária**: 2 horas
+
+**Data de conclusão**: 04/01/2022
+
+<br>
+
+### SQL com MySQL: manipule e consulte dados
+
+**Instituição**: Alura Ensino Online
+
+**Carga horária**: 12 horas
+
+**Período**: 27/03/2023 a 01/04/2023
+
+<br>
+
+### Java e JDBC: trabalhando com um banco de dados
+
+**Instituição**: Alura Ensino Online
+
+**Carga horária**: 12 horas
+
+**Período**: 01/04/2023 a 21/04/2023
+
+<br>
+
+### Persistência com JPA: Hibernate
+
+**Instituição**: Alura Ensino Online
+
+**Carga horária**: 8 horas
+
+**Período**: 21/04/2023 a 24/04/2023
+
+<br>
+
+### Java Servlet: programação web Java
+
+**Instituição**: Alura Ensino Online
+
+**Carga horária**: 10 horas
+
+**Período**: 24/04/2023 a 06/05/2023
+
+<br>
+
+### Spring Boot 3: desenvolva uma API Rest em Java
+
+**Instituição**: Alura Ensino Online
+
+**Carga horária**: 10 horas
+
+**Período**: 15/05/2023 a 18/05/2023
+
+
+
+<br>
+
