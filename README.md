@@ -260,17 +260,20 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
   - Unidade 3 - Padrões e teste de qualidade de software;
   - Unidade 4 - Processos de gerência da qualidade de software.
 
-  [AV1 - Gerenciamento das atividade como fator determinante em um projeto de software](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/engenharia-qualidade-e-testes-de-software/av1-atividade-contextualizada)
-  
-  [Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/engenharia-qualidade-e-testes-de-software)
-  
-  <br>
+
+[AV1 - Gerenciamento das atividade como fator determinante em um projeto de software](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/engenharia-qualidade-e-testes-de-software/av1-atividade-contextualizada)
+
+[Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/3-periodo/engenharia-qualidade-e-testes-de-software)
+
+<br>
 
 ## 4° Período
 
 ### Atividades Práticas Interdisciplinares de Extensão II
 
-[AV1 - Website Esporte Ipojucano](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/atividades-praticas-interdisciplinares-de-extencao-II/av1-atividade-contextualizada)
+[AV1 - Website Esporte Ipojucano - Projeto](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/atividades-praticas-interdisciplinares-de-extencao-II/av1-atividade-contextualizada)
+
+[AV2 - Website Esporte Ipojucano - Relatório de Intervenção](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/atividades-praticas-interdisciplinares-de-extencao-II/av2-atividade-contextualizada)
 
 [Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/atividades-praticas-interdisciplinares-de-extencao-II)
 
