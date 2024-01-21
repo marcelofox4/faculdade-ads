@@ -4,10 +4,10 @@
 
 **Tutor:** Adilson da Silva
 
-**Data de conclusão**: Em andamento
+**Data de conclusão**:
 
 **Notas**:
 
 | 1° Avaliação | 2° Avaliação | Final | Total |
 | ------------ | ------------ | :---- | ----- |
-| 9.00         | --           | --    | --    |
+| 9.00         | 8.00         | --    | 8.50  |

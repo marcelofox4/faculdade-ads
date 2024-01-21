@@ -312,7 +312,9 @@ Unidade 4 - Métodos ágeis para gestão de projetos.
 - Unidade 3 - O que são Projetos;
 - Unidade 4 - Metodologias Ágeis.
 
-[AV1 - Esporte Ipojucano](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/laboratorio-de-projetos-inovadores/av1-atividade-contextualizada)
+[AV1 - Esporte Ipojucano - Projeto](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/laboratorio-de-projetos-inovadores/av1-atividade-contextualizada)
+
+[AV2 - Esporte Ipojucano - Relatório](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/laboratorio-de-projetos-inovadores/av2-atividade-contextualizada)
 
 [Desempenho Acadêmico](https://github.com/marcelofox4/faculdade-ads/tree/main/4-periodo/laboratorio-de-projetos-inovadores)
 
