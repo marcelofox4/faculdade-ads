@@ -4,7 +4,7 @@
 
 **Tutor:** Caio Endson de Souza Lima
 
-**Data de conclusão**: Em andamento
+**Data de conclusão**:
 
 **Notas**:
 

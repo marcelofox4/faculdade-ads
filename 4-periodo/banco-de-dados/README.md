@@ -4,7 +4,7 @@
 
 **Tutor:** Adilson da Silva
 
-**Data de conclusão**: Em andamento
+**Data de conclusão**:
 
 **Notas**:
 

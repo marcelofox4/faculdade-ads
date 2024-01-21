@@ -4,7 +4,7 @@
 
 **Tutor:** Jeneffer Cristine Ferreira
 
-**Data de conclusão**: Em andamento
+**Data de conclusão**:
 
 **Notas**:
 
